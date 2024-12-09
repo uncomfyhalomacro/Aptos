@@ -1,0 +1,9 @@
+[package]
+name = "MyContract"
+version = "1.0.0"
+authors = []
+
+[dependencies]
+aptos_framework = { git = "https://github.com/aptos-labs/aptos-framework", rev = "v1.0.0-beta.3" }
+
+[dev-dependencies]
